@@ -241,27 +241,17 @@ function App() {
 
       <div className="prose prose-lg max-w-none text-gray-300 leading-relaxed">
         <p className="text-xl mb-6">
-          A 20-year-old Computer Science student from Bangalore with a growing enthusiasm for both technology and financial systems.
+          A 21-year-old Computer Science student from Bangalore with a growing enthusiasm for both technology and financial systems.
         </p>
         
         <p className="mb-6">
           I first encountered the world of quantitative finance by chance, and something about the blend of math, markets, and code instantly clicked with me. Since then, I've been diving deep into data, financial theories, and quantitative strategies to truly understand what drives performance in the markets.
         </p>
         
-        <p className="mb-6">
-          Right now, I'm working as a <strong className="text-blue-400">Quantitative Research Intern at Wright Research</strong>. My role involves analyzing large datasets, designing strategies, identifying alpha signals, and developing models to manage risk and improve returns. You can explore my resume to know more.
-        </p>
-        
-        <p className="mb-6">
-          In my spare time, I enjoy building side projects in the quant space — experimenting with code, testing out financial models, and learning through iteration. Feel free to check out some of my work.
-        </p>
-        
-        <p className="mb-6">
-          Beyond finance and tech, I'm passionate about <strong className="text-blue-400">Formula 1</strong> (huge Mercedes supporter!), and I love geeking out over the engineering brilliance behind the sport. I also follow cricket closely.
-        </p>
+      
         
         <p className="text-lg font-medium text-blue-400">
-          Always happy to chat about markets, tech, F1, or anything in between — reach out anytime!
+          Always happy to chat about markets, business , tech, , or anything in between — reach out anytime!
         </p>
       </div>
 
@@ -297,9 +287,7 @@ function App() {
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-white mb-4">My Projects</h1>
-        <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-          A collection of quantitative finance and data science projects that showcase my passion for combining technology with financial markets.
-        </p>
+      
       </div>
 
       {/* GitHub Profile Link */}
