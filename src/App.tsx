@@ -229,7 +229,7 @@ function App() {
           <span className="text-white font-bold text-4xl">A</span>
         </div>
         <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4">
-          Hey, I'm <span className="text-blue-400">Achutha</span>
+          Hey, I'm <span className="text-blue-400">ACHUTHA S</span>
         </h1>
         <div className="flex items-center justify-center space-x-4 text-gray-400 mb-8">
           <div className="flex items-center space-x-1">
@@ -344,7 +344,7 @@ function App() {
           <FileText size={40} className="text-blue-400" />
         </div>
         
-        <h2 className="text-2xl font-bold text-white mb-4">Achutha's Resume</h2>
+        <h2 className="text-2xl font-bold text-white mb-4">ACHUTHA'S Resume</h2>
         <p className="text-gray-400 mb-8">
           Comprehensive overview of my education, experience, and skills in quantitative finance and computer science.
         </p>
